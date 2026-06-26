@@ -1,0 +1,18 @@
+Sınıflandırma Raporu — Türk Kültürel Jest Tanıma
+============================================================
+               precision    recall  f1-score   support
+
+Allah_korusun       1.00      1.00      1.00         6
+       bilmem       1.00      0.83      0.91         6
+     culsuzum       1.00      1.00      1.00         6
+        hayir       1.00      1.00      1.00         6
+      iki_cay       1.00      1.00      1.00         6
+        kapak       1.00      1.00      1.00         6
+       kusmek       0.86      1.00      0.92         6
+   odum_koptu       1.00      1.00      1.00         6
+         ohoo       0.83      0.83      0.83         6
+         para       0.83      0.83      0.83         6
+
+     accuracy                           0.95        60
+    macro avg       0.95      0.95      0.95        60
+ weighted avg       0.95      0.95      0.95        60

@@ -1,0 +1,22 @@
+# Python ve Ortam Dosyalari
+__pycache__/
+*.pyc
+.venv/
+env/
+.vscode/
+
+# Yapay Zeka Model Dosyalari 
+*.h5
+*.keras
+*.json
+
+
+# Videolarin ve koordinatlarin durdugu MP_Data klasorunun yuklenmesini engeller:
+MP_Data/
+
+# Tedbir Amacli Buyuk Dosya Uzantilari
+*.npy
+*.npz
+*.mp4
+*.avi
+*.mov
